@@ -1,0 +1,11 @@
+:root {
+    --mainColor: #7a7a7a;
+    --secondaryColor: #54595f;
+    --dark: #000;
+    --grey: #d5d8dc;
+
+    --accent: #ee9b17;
+
+    --radius: 10px;
+    --transition: 0.2s;
+}
